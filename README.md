@@ -1,3 +1,3 @@
 # demo2
-<html></html>
-lokare
+print("hello")
+
